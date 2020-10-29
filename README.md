@@ -10,6 +10,7 @@ export FLASK_ENV="development"
 export APP_SETTINGS_MODULE="config.default"
 
 Ejecutar los siguientes comandos para hacer las migraciones a la base de datos
+
 flask db init
 
 flask db migrate
